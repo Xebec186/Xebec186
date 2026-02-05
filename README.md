@@ -43,7 +43,7 @@ I'm a software engineer who loves solving hard problems with elegant solutions. 
 ## 📈 GitHub Stats (live, dark theme)
 These widgets show your public profile activity. Private contributions are included.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xebec186&show_icons=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xebec186&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xebec186&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xebec186&theme=dark)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Xebec186&theme=dark)
