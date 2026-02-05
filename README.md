@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Xebec186
+# 👋 Hi, I’m Glenn Rogers
 
 > Crafting clean, reliable software and shipping features that make people's lives easier.  
 > I blend pragmatic engineering with thoughtful product sense.
@@ -24,16 +24,6 @@ I'm a software engineer who loves solving hard problems with elegant solutions. 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## 🌟 Highlights
-- Strong Java + Spring Boot experience building performant, maintainable backend services.
-- Frontend-first sensibility using React and Next.js with Tailwind/Bootstrap for responsive UIs.
-- Real-time systems experience using WebSockets and event-driven patterns.
-- Mobile app experience with React Native and Firebase-powered backends.
-- Experienced with relational modeling in MySQL and API testing with Postman.
-- End-to-end delivery: design → implement → test → deploy.
 
 ---
 
