@@ -40,14 +40,18 @@ I'm a software engineer who loves solving hard problems with elegant solutions. 
 
 ---
 
-## 📈 GitHub Stats (live, dark theme)
-These widgets show your public profile activity. Private contributions are included.
+## 📈 GitHub Stats 
+These widgets show your public profile activity.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xebec186&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xebec186&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xebec186&theme=dark)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Xebec186&theme=dark)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Xebec186&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xebec186&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xebec186&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Xebec186&theme=dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xebec186&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Xebec186&theme=tokyonight)
 
 ---
 
