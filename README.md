@@ -49,8 +49,6 @@ These widgets show your public profile activity.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Xebec186&theme=dark)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xebec186&theme=tokyonight)
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Xebec186&theme=tokyonight)
 
 ---
