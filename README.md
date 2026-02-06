@@ -41,8 +41,6 @@ I'm a software engineer who loves solving hard problems with elegant solutions. 
 ---
 
 ## 📈 GitHub Stats 
-These widgets show your public profile activity.
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xebec186&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xebec186&layout=compact&theme=tokyonight)
